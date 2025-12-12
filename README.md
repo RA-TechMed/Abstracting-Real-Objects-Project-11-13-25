@@ -1,1 +1,2 @@
 This project defines a Gondola class in Java that models the features and behavior of a gondola boat, like those traditionally used in Venice. It includes properties such as name, size, material, occupancy limits, lifespan, speed, and current passenger count. The program demonstrates object-oriented principles including constructors, getters/setters, and behavior methods. 
+<img width="521" height="441" alt="Abstracting-Real-Objects-Project-11-13-25 drawio" src="https://github.com/user-attachments/assets/9a7c44a2-b3bd-49c7-90a5-96beec1e7a59" />
